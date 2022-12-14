@@ -8,6 +8,8 @@ public class _1_if_statment {
             a=b;
             b=a;
         }
-    System.out.println(a+"  "+b);
+    
+    System.out.println("if statement is the simplest of all control statment.it makes one way based on single condition . if the condition is true body of if block executed otherwise not.");
+    System.out.println("output is "+a+"  "+b);
     }
 }
