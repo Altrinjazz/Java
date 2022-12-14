@@ -1,5 +1,5 @@
 # JAVA 
-The steps and methods and basic idea about the java program. 
+<h2>The steps and methods and basic idea about the java program.</h2> 
 <!---
 Altrinjazz/Altrinjazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
