@@ -7,9 +7,8 @@ You can click the Preview link to take a look at your changes.
 <h3>
     <ol>
          <div style="background-color:lightgoldenrodyellow;"> 
-                    <li> Designing</li>
-                    <li>Photography </li>
-                    <li>Java</li>
+                    <li> Selection Statement</li>
+                    <li> Looping Statement </li>
             </div>
     </ol>
 </h3>
