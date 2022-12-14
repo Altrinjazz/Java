@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch _2_if_else_statement",
+            "request": "launch",
+            "mainClass": "_2_if_else_statement",
+            "projectName": "Java_70d793f2"
+        },
+        {
+            "type": "java",
             "name": "Launch _1_if_statment",
             "request": "launch",
             "mainClass": "_1_if_statment",
