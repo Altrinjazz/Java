@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
             </div>
     </ol>
 </h3>
-<h3><ul><div><li>Selection Statement<li></div></ul></h3>
+<h2>Selection Statement</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altrinjazz&show_icons=true&locale=en" alt="altrinjazz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altrinjazz&" alt="altrinjazz" /></p>
 <h1 align="center"> S. ALTRIN JASH</h1>
