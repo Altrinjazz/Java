@@ -14,6 +14,17 @@ You can click the Preview link to take a look at your changes.
     </ol>
 </h3>
 <h1>Selection Statement</h1>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the jump of control statement is only once then  it is knowm as selection statement.&nbsp;They are of three types.</h3>
+<h3>They are</h3>
+<h3>
+    <ul>
+         <div style="background-color:lightgoldenrodyellow;"> 
+                    <li> if Statement</li>
+                    <li> if....else Statement </li>
+                    <li> switch Statement</li>
+            </div>
+    </ul>
+</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altrinjazz&show_icons=true&locale=en" alt="altrinjazz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altrinjazz&" alt="altrinjazz" /></p>
 <h1 align="center"> S. ALTRIN JASH</h1>
