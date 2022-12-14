@@ -31,7 +31,29 @@ You can click the Preview link to take a look at your changes.
 <h3>if (condition)</h3>
 <h3>&nbsp;&nbsp;&nbsp;{</h3>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;</h3>
+<h3>&nbsp;&nbsp;&nbsp;}</h3>
+<h1>if....else Statement</h1>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if....else  statement is a two way statement.&nbsp; Based on the condition, if follows any one of the two ways .&nbsp;If the condition is true if block is executed, otherwise else block is executed.</h3>
+<h2>General form of if ststement<h/2>
+<h3>if (condition)</h3>
 <h3>&nbsp;&nbsp;&nbsp;{</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;</h3>
+<h3>&nbsp;&nbsp;&nbsp;}</h3>
+<h3>else</h3>
+<h3>&nbsp;&nbsp;&nbsp;{</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;</h3>
+<h3>&nbsp;&nbsp;&nbsp;}</h3>
+<h1>switch Statement</h1>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Switch is a multi-way branching statement.&nbsp;Based on the value of an expression the control is transferred to one of the many possible points.&nbsp;If no match is there then default block is excecated.&nbsp;Every case block should be terminated with a brake statement.</h3>
+<h2>General form of if ststement<h/2>
+<h3>switch (expression)</h3>
+<h3>&nbsp;&nbsp;&nbsp;{</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;&nbsp;Value 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;</h3>
+<h3>&nbsp;&nbsp;&nbsp;}</h3>
+<h3>else</h3>
+<h3>&nbsp;&nbsp;&nbsp;{</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;</h3>
+<h3>&nbsp;&nbsp;&nbsp;}</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altrinjazz&show_icons=true&locale=en" alt="altrinjazz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altrinjazz&" alt="altrinjazz" /></p>
 <h1 align="center"> S. ALTRIN JASH</h1>
