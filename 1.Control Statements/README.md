@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
             </div>
     </ul>
 </h3>
+<h1>if Statement</h1>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if statement is the simplest of all control statment.&nbsp;It makes one way based on single condition &nbsp;. if the condition is true body of if block executed otherwise not.</h3>
+<h2>General form of if ststement<h/2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altrinjazz&show_icons=true&locale=en" alt="altrinjazz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altrinjazz&" alt="altrinjazz" /></p>
 <h1 align="center"> S. ALTRIN JASH</h1>
