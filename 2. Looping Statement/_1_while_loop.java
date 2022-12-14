@@ -1,9 +1,10 @@
 public class _1_while_loop {
     public static void main(String[] args) {
-        int i=1;
-        int sum=0;
-        while (i<=10) {
-            sum=sum++;
+        int i=1,sum=0;
+        while(i<10)
+        {
+            sum=sum+1;
+            i++;
         }
         System.out.println("output is "+sum);
         System.out.println();
