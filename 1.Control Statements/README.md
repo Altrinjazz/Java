@@ -49,10 +49,18 @@ You can click the Preview link to take a look at your changes.
 <h3>switch (expression)</h3>
 <h3>&nbsp;&nbsp;&nbsp;{</h3>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;&nbsp;Value 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;</h3>
-<h3>&nbsp;&nbsp;&nbsp;}</h3>
-<h3>else</h3>
-<h3>&nbsp;&nbsp;&nbsp;{</h3>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;&nbsp;Value 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;&nbsp;Value 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;&nbsp;Value 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;&nbsp;Value 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;defult :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ststement;</h3>
 <h3>&nbsp;&nbsp;&nbsp;}</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altrinjazz&show_icons=true&locale=en" alt="altrinjazz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altrinjazz&" alt="altrinjazz" /></p>
