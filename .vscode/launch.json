@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch _4_if_else_if_lader",
+            "request": "launch",
+            "mainClass": "_4_if_else_if_lader",
+            "projectName": "Java_70d793f2"
+        },
+        {
+            "type": "java",
             "name": "Launch _3_nested_if_else",
             "request": "launch",
             "mainClass": "_3_nested_if_else",

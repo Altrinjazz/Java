@@ -36,6 +36,9 @@ public class _4_if_else_if_lader {
             grade='U';
             System.out.println("output is  "+grade);
         }
+        System.out.println();
+        System.out.println("4. else if ladder.");
+        System.out.println();
         System.out.println("In an nested if....else statement if each block is associated with else block then it is known as else if ladder.");
     }
 }
