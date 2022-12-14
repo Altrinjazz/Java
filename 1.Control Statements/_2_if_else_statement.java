@@ -11,7 +11,11 @@ public class _2_if_else_statement {
             max=b;
             System.out.println("output is  "+max);
         }
-        System.out.println("if....else  statement is a two way statement. Based on the condition, if follows any one of the two ways . If the condition is true if block is executed, otherwise else block is executed. ");
-
+        System.out.println();
+        System.out.println("2. if else statement.");
+        System.out.println();
+        System.out.println("if....else  statement is a two way statement.");
+        System.out.println("Based on the condition, if follows any one of the two ways . ");
+        System.out.println(" If the condition is true if block is executed, otherwise else block is executed. ");
     }
 }
