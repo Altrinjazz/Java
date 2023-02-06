@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
                     <li> Distribute network suport.</li>
                     <li> Multi-thread support.</li>
                     <li> Dynamic linking.</li>
-                    <li> Automatic garbage collection.</li>
+                    <li> Automatic garbage collection .</li>
                     <li> Direct database access.</li>
                     <li> Core XML support.</li>
             </div>
